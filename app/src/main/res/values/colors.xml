@@ -4,6 +4,9 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="toolBarColor">#eeeeee</color>
+    <color name="colorPrimaryLight">#90caf9</color>
+    <color name="toolBarTextLight">#ffffff</color>
+    <color name="toolBarTextDark">#000000</color>
 
     <string-array name="array_colorPicker">
         <item>#ae5252</item>

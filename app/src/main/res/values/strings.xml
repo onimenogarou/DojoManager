@@ -68,6 +68,8 @@
     <string name="student_label_notes">Notes</string>
     <string name="student_button_viewNotes">View notes</string>
     <string name="student_note_addNote">Add note</string>
+    <string name="student_label_contacts">Contacts</string>
+    <string name="student_email">Email Address</string>
     <string name="title_activity_date_class_list">DateClassListActivity</string>
     <string name="action_settings">Settings</string>
     <string name="dojoClass_studentCount">Students:</string>
